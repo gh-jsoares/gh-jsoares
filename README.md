@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm João 🐧</h1>
+<h3 align="center">A software engineer looking to expand his knowledge</h3>
 
-<!--
-**gh-jsoares/gh-jsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gh-jsoares&label=Profile%20views&color=0e75b6&style=flat" alt="gh-jsoares" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently fully re-working new services from scratch for [TUIST](https://tuist.pt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥳 The latest project I finished is [TicketChain](https://jsoares.me/projects/ticketchain)
+
+- 😎 The project I'm most proud of is [PenguBank](https://jsoares.me/projects/pengubank)
+
+- 👨‍💻 View some of my other projects at [https://jsoares.me](https://jsoares.me)
+
+- 💬 Ask me about **cyber-security** and **distributed systems**
+
+- ⚡ Fun fact **I like penguins and I have been playing music for 13 years**
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gh-jsoares&show_icons=true&title_color=e6b450&text_color=565b66&bg_color=0b0e14&locale=en" alt="gh-jsoares" /></p>
