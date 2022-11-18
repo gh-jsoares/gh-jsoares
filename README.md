@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh-jsoares&label=Profile%20views&color=0e75b6&style=flat" alt="gh-jsoares" /> </p>
 
-- 🔭 I’m currently fully re-working new services from scratch for [TUIST](https://tuist.pt)
+- 🔭 I’m currently a Full-Stack developer working for Inetum-Realdolmen
 
 - 🥳 The latest project I finished is [TicketChain](https://jsoares.me/projects/ticketchain)
 
