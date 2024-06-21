@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh-jsoares&label=Profile%20views&color=0e75b6&style=flat" alt="gh-jsoares" /> </p>
 
-- 🔭 I’m currently a Software Engineer working for Toyota Motor Europe
+- 🔭 I’m currently a Cloud Infrastructure Software Engineer working for Tinder
 
 - 🥳 The latest project I finished is [TicketChain](https://jsoares.me/projects/ticketchain)
 
